@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Foreground Notification</string>
+
+    <string name="notification_channel_name__foreground_notification">Foreground Notification</string>
+
+</resources>
